@@ -1,6 +1,5 @@
 # Squad AI
-By Christophe Huang and Maxime Leguevacques.  
-  
+A project with AI Behavior Tree.
   
 # Run the project and Play
   
